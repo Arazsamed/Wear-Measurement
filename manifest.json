@@ -1,0 +1,17 @@
+{
+  "name": "Aşınma Ölçüm Sistemi",
+  "short_name": "Aşınma",
+  "description": "NORM Sement - Avadanlıq Aşınma Ölçümləri",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%232563eb'/><text x='50%' y='58%' dominant-baseline='middle' text-anchor='middle' font-size='110' font-family='sans-serif' font-weight='bold' fill='%23ffffff'>NS</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
